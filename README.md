@@ -1,4 +1,4 @@
-# cet-yucky-utils
+# cet-yucky-utilities
 
 A collection of stupid and hilarious java utility programs
 
