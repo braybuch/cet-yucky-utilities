@@ -58,9 +58,9 @@ DerpUtils derpUtils = new DerpUtils();
 derpUtils.printWords(char[] wordsList);
 ```
 
-Include class and method level comments explaining general behaviour. Include the author, and date modified PLEASE! 
+Include class and method level comments explaining general behaviour. Include the author, and date modified
 
-**Do not delete the previous author(s). Add yourself below**
+**PLEASE! Do not delete the previous author(s). Add yourself below**
 
 A good method comment would look like 
 ```
