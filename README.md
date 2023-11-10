@@ -68,7 +68,7 @@ A good method comment would look like
  * Author(s): 		Albert Einstein 
  *			Brayden Buchner
  * Date Modified:	2023-11-10
- * Behaviour: 		Derive energy from math and acceleration 
+ * Behaviour: 		Derive energy from mass
  */
 ```
 
