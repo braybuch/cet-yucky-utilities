@@ -1,6 +1,6 @@
 # cet-yucky-utilities
 
-A collection of stupid and hilarious java utility programs
+A collection of stupid and hilarious java utility programs.
 
 ## Description
 
@@ -31,7 +31,19 @@ There's no main method, so you'll have to flesh out the project and build someth
 
 ### I'd like to help!
 
-Great! Fork this puppy and do some whippets, then you'll probably be ready to go. I encourage you to write well documented, properly named code but have some fun with it: no gibberish like Poop.poop.makepoop(int poop). Write utility methods that replicate basic things we're used to in Java. Don't write actual program code, that will be left up to the people who want to use this project. 
+Great! Fork this puppy and do some whippets, then you'll probably be ready to go. I encourage you to write well documented, properly named code and have some fun with it. Write utility methods that replicate basic things we're used to in Java. 
+
+And don't write actual program code (ie main()), that will be left up to the people who want to use this project. 
+
+### Need that in step by step form? 
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b buch-char-array-output-handler)
+3. Commit your Changes (git commit -m 'Added output methods for char arrays')
+4. Push to the Branch (git push origin buch-char-array-output-handler)
+5. Open a Pull Request
+
+### What is the style guide? 
 
 When writing your code, try to name your methods so using them is intuitive. A call of 
 ```
@@ -46,15 +58,21 @@ DerpUtils derpUtils = new DerpUtils();
 derpUtils.printWords(char[] wordsList);
 ```
 
+Include class and method level comments explaining general behaviour. Include the author, and date modified PLEASE! 
+
+**Do not delete the previous author(s). Add yourself below**
+
+A good method comment would look like 
+```
+/* 
+ * Author(s): 		Albert Einstein 
+ *					Brayden Buchner
+ * Date Modified:	2023-11-10
+ * Behaviour: 		Derive energy from math and acceleration 
+ */
+```
+
 When you've made some changes you're proud of, update the CHANGELOG.md with your contributions and issue a pull request. 
-
-## Need that in step by step form? 
-
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
 
 ## Help
 
