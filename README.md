@@ -60,5 +60,6 @@ When you've made some changes you're proud of, update the CHANGELOG.md with your
 
 If you've got any questions, best source of help would be the #intro-computer-programming channel in the CET discord 
 
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
